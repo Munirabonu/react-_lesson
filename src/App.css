@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(58, 20, 94);
+    color: #fff;
+}
+table {
+    background-color: rgb(206, 206, 241);
+    width: 80%;
+    text-align:center;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 40px auto;
+    color: black;
+}
+th,td {
+    border: 1px solid green;
+    border-style:dotted;
+    padding: 10px;
+}
